@@ -1,6 +1,6 @@
 # javascript-calculator-precourse
 
-###구현할 기능 목록
+### 구현할 기능 목록
 
 1. 사용자에게 문자열 입력 받기
 2. 문자열에 커스텀 구분자 추출
